@@ -10,17 +10,21 @@ Este projeto em Java tem como objetivo praticar os conceitos de controle de flux
 
 ## Exemplo
 
-Entrada:
-12 30
+Entrada:  
+
+Número 1: 12  
+Número 2: 30
 
 
 Saída:
 
 Imprimindo o número 1
-Imprimindo o número 2
-...
-Imprimindo o número 18
 
+Imprimindo o número 2  
+...  
+...  
+...  
+Imprimindo o número 18
 
 ## Estrutura do Projeto
 
